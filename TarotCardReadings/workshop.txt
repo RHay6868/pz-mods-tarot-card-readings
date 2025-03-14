@@ -1,0 +1,54 @@
+version=1
+id=2928012665
+title=Tarot Card Readings
+description=[h1]TAROT CARD READINGS[/h1]
+description=This is a little mod put together for a friend and I decided to share with everybody else too. Should include all the basic necessities to conduct a proper Tarot Card reading.
+description=
+description=This experience includes the following Mechanics:[b]
+description=[list]
+description=  [*]FULL DECK OF 78
+description=  [*]22 MAJOR ARCANA CARDS
+description=  [*]58 MINOR ARCANA CARDS
+description=  [*]ABILITY TO PULL 1, 3, 5, 7, 10, or 12
+description=  [*]CARDS ARE RANDOMIZED AND START UNFLIPPED
+description=  [*]ONCE FLIPPED A CHANCE IS BUILT IN TO SAY "REVERSED"
+description=  [*]CAN COMBINE BACK INTO A FULL DECK AND PULL AGAIN
+description=  [*]RARE WORLD SPAWN BUT CAN BE CHANGED WITH SANDBOX SETTING
+description=[/list]
+description=[/b]
+description=
+description=[h1]FULL RANDOMIZED DECK PULLS + REVERSED MECHANICS[/h1]
+description=[img]https://imgur.com/Xd0Cr0a.png[/img]
+description=[img]https://imgur.com/bOAAbWZ.png[/img]
+description=[img]https://imgur.com/0DBI83j.png[/img]
+description=
+description=[h1]Additional Information[/h1]
+description=The mod was tested in various environments but there is no possible way to accommodate every single mod or server setup. There should be no expectations for cross compatibility on a larger scale among the pool of mods for this game. [b]
+description=[list]
+description=  [*]B41.78+ Single Player / Multiplayer Compatible
+description=  [*]Configurable Sandbox Settings for Loot Spawn
+description=[/list]
+description=[/b]
+description=[hr][/hr]
+description=[img]https://steamuserimages-a.akamaihd.net/ugc/1660101375273576639/0C12E325C464F5DC166E5FF2AB70A43581BED64F/[/img]
+description=
+description=I appreciate your interest in my mod, please don't forget to rate it. If you feel especially inclined, donating a [url=https://ko-fi.com/ryanhayes]coffee[/url] goes a long way for me.
+description=
+description=[url=https://ko-fi.com/ryanhayes][img]https://i.imgur.com/2uTskWl.png[/img][/url]
+description=
+description=[b]Other workshops by me:[/b]
+description=
+description=[table]
+description=[tr]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2923439994][img]https://steamuserimages-a.akamaihd.net/ugc/1996818260943233101/D814FAEA7BFAA6149C76E04B21A984F0B2A1F42B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2801575579][img]https://steamuserimages-a.akamaihd.net/ugc/1813272005283694112/FDD94F2E4F3994DBEC1F1710A88F98829843649B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2884033891][img]https://steamuserimages-a.akamaihd.net/ugc/1859450874949341016/318A3B805ED8A0AC6BC9008D3BCDBFA61862872B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[/tr][/table]
+description=[hr][/hr]
+description=
+description=[quote=author] Do not copy, modify, redistribute, or repackage this mod without explicit permission from the creator. This includes on or off of steam, within another mod or modpack, or a different modified version. This item can be published on Steam only through an account with the name Mackus103.
+description=
+description=If no permission is received you may not alter the mod, and it must be treated as a mod that is 'On Lockdown'.
+description=© 2022-2023 Mackus103  [/quote]
+tags=Build 41;Items;Literature;Misc
+visibility=public
